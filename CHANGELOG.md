@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/R-SKY5/logseq-plugin-link-preview/compare/v1.8.5...v1.9.0) (2021-11-30)
+
+
+### Features
+
+* change server domain ([4ba3039](https://github.com/R-SKY5/logseq-plugin-link-preview/commit/4ba3039c37c047b0371efc7619af0a3f9fee43d9))
+
 ## [1.8.5](https://github.com/pengx17/logseq-plugin-link-preview/compare/v1.8.4...v1.8.5) (2021-11-30)
 
 
